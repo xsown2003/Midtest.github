@@ -1,0 +1,34 @@
+.all-click1{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(250, 235, 215, 0);
+}
+.click1{
+    background-color: pink;
+    width: 400px;
+    height: 600px;
+    position: absolute;
+    left: 22%;
+    top: 15%;
+    border-radius: 20px;
+}
+.click-button button{
+    position: relative;
+    right: -38.8vh;
+    top: 0.1vh;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background-color: rgba(250, 235, 215, 0.075);
+    border-radius: 50%;
+    font-weight: bold;
+}
+.click-button button:hover{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+.weather-change{
+    text-align: center;
+}

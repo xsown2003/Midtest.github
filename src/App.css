@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all{
+    position: relative;
+    right: -30vh;
+}
+.content{
+    background-color: #192026;
+    width: 1300px;
+}
+.change{
+    display: flex;
+    gap: 30px;
+}
+

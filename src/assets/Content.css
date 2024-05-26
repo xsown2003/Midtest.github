@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.both-content{
+    padding: 50px;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+}
+.title input{
+    background-color: #374151;
+    width: 375px;
+    border-radius: 37px;
+    text-align: center;
+    color: white;
+    height: 48px;
+    font-size: 18px;
+    border: none;
+}
+.title h1{
+    color: #fff;
+    font-size: 36px;
+}
+.title p a{
+    text-decoration: none;
+    color: #868686;
+    font-size: 18px;
+}
+
+.explore h1{
+    color: #fff;
+    margin-bottom: 20px;
+}
+.explore h2{
+    color: #fff;
+    font-size: 32px;
+}
+.color-what{
+    color: #868686;
+    font-size: 22px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/* 
+.change-weather{
+    position: relative;
+    top: -15vh;
+    right: -50px;
+}
+.weather-name{
+    color: white;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.weather-content{
+    color: #ffffffb0;
+    font-size: 18px;
+}*/
+
